@@ -48,7 +48,7 @@ I'm a self taught Web developer and digital strategist focused on building scala
 
 ## lets connect!
 - [https://www.linkedin.com/in/fidelis-edefo-5548163b5/]
-- [08107048735, 09056233467]
+- [08107048735, 07045591485, 09056233467]
 - [fidelisedefo2017@gmail.com]
 
 
