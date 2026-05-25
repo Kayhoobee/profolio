@@ -16,7 +16,7 @@ Frontend Web Developer — Linestone TECH
 	•	Improved user experience by optimizing page load speed, adding animations, and creating layouts that worked smoothly across desktop and mobile devices.
 	•	Collaborated with stakeholders to translate business requirements into functional web experiences that supported brand visibility and customer conversion.
 
-FREELANCE WEB DEVELOPER
+-FREELANCE WEB DEVELOPER
 2024 – Present
 	•	Built responsive websites for personal brands and startups
 	•	Improved mobile performance and SEO optimization across projects
@@ -27,12 +27,25 @@ FREELANCE WEB DEVELOPER
 	•	Startup ideas
 	•	Campus projects
 
-## My porjects
+## My Projects
 - [samsung-demo](https://github.com/Kayhoobee/samsung-demo.git)
 - [food website](https://github.com/Kayhoobee/banking-website.git)
 - [banking-website](https://github.com/Kayhoobee/foodwebsite.git)
 
+## EDUCATION/CERIFICATIONS
+-BSc Anatomy, Ambrose Alli University Ekpoma, Edo state – 2023
+-Java for beginners, Simplilearn – 2026
+-Interactive AI course, Simplilearn – 2026 
+
+<img width="542" height="382" alt="JAVA" src="https://github.com/user-attachments/assets/48b275fc-96b0-4388-9578-275b2ee3061f" />
+
+<img width="589" height="387" alt="AI" src="https://github.com/user-attachments/assets/998fb0ca-e019-46ca-98a6-c3cbb0edf4e3" />
+
+
 ## lets connect!
-[https://www.linkedin.com/in/fidelis-edefo-5548163b5/]
-[08107048735, 90156233467]
-[fidelisedefo2017@gmail.com]
+-[https://www.linkedin.com/in/fidelis-edefo-5548163b5/]
+-[08107048735, 90156233467]
+-[fidelisedefo2017@gmail.com]
+
+
+
