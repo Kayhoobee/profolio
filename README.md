@@ -7,6 +7,11 @@ I'm a self taught Web developer and digital strategist focused on building scala
 - github
 - Canva
 ## My porjects
-- [samsung demo website] (....)
+- [samsung-demo] (....)
+- [food website] (....)
+- [banking-website] (....)
 
-- 
+## lets connect!
+[https://www.linkedin.com/in/fidelis-edefo-5548163b5/]
+[08107048735, 90156233467]
+[fidelisedefo2017@gmail.com]
