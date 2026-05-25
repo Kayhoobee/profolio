@@ -7,6 +7,7 @@ I'm a self taught Web developer and digital strategist focused on building scala
 - CSS
 - github
 - Canva
+- React
 - learning python
 - seeking a remote job
 
