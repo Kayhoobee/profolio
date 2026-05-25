@@ -52,4 +52,17 @@ I'm a self taught Web developer and digital strategist focused on building scala
 - [fidelisedefo2017@gmail.com]
 
 
+## Some Screenshots of my personal builds to the link shared to this portfolio
+- <img width="960" height="438" alt="f 1" src="https://github.com/user-attachments/assets/942efb89-34e0-47ee-a666-c5b4cd354cb7" />
+- <img width="944" height="393" alt="S demo 4" src="https://github.com/user-attachments/assets/1e6699a6-fbe2-4dee-bbad-359a18fda1a9" />
+- <img width="940" height="400" alt="s demo 3" src="https://github.com/user-attachments/assets/a47c7aff-c626-4f41-8f4e-e81c58328960" />
+- <img width="938" height="431" alt="s demo 1" src="https://github.com/user-attachments/assets/439fede8-6125-45dc-beda-32e00c141d27" />
+- <img width="955" height="410" alt="b 4" src="https://github.com/user-attachments/assets/1bbe6293-fbf0-4559-a4d6-76a88f5885cf" />
+- <img width="950" height="429" alt="b 3" src="https://github.com/user-attachments/assets/58a46a86-b9b4-4596-b126-6d3540dc518a" />
+- <img width="938" height="266" alt="B 2" src="https://github.com/user-attachments/assets/d740ef3f-29a0-42bd-b3cb-7cef36b09d24" />
+- <img width="958" height="438" alt="b 1" src="https://github.com/user-attachments/assets/f890daef-a350-429c-8e57-48def79f9cc9" />
+- <img width="950" height="401" alt="f 3" src="https://github.com/user-attachments/assets/af447b9d-81d3-4460-9027-cd873730bc7c" />
+- <img width="952" height="439" alt="f 2" src="https://github.com/user-attachments/assets/41dd9508-8d44-483e-899c-a42ac194c275" />
+
+
 
