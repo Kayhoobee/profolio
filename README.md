@@ -7,4 +7,6 @@ I'm a self taught Web developer and digital strategist focused on building scala
 - github
 - Canva
 ## My porjects
+- [samsung demo website] (....)
+
 - 
