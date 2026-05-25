@@ -37,9 +37,9 @@ Frontend Web Developer — Linestone TECH
 -Java for beginners, Simplilearn – 2026
 -Interactive AI course, Simplilearn – 2026 
 
-<img width="542" height="382" alt="JAVA" src="https://github.com/user-attachments/assets/48b275fc-96b0-4388-9578-275b2ee3061f" />
+## <img width="542" height="382" alt="JAVA" src="https://github.com/user-attachments/assets/48b275fc-96b0-4388-9578-275b2ee3061f" />
 
-<img width="589" height="387" alt="AI" src="https://github.com/user-attachments/assets/998fb0ca-e019-46ca-98a6-c3cbb0edf4e3" />
+## <img width="589" height="387" alt="AI" src="https://github.com/user-attachments/assets/998fb0ca-e019-46ca-98a6-c3cbb0edf4e3" />
 
 
 ## lets connect!
