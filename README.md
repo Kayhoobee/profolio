@@ -8,7 +8,7 @@ I'm a self taught Web developer and digital strategist focused on building scala
 - Canva
 ## My porjects
 - [samsung-demo](https://github.com/Kayhoobee/samsung-demo.git)
-- [food website] (....)
+- [food website](https://github.com/Kayhoobee/banking-website.git)
 - [banking-website] (....)
 
 ## lets connect!
