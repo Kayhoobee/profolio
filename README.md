@@ -9,7 +9,7 @@ I'm a self taught Web developer and digital strategist focused on building scala
 ## My porjects
 - [samsung-demo](https://github.com/Kayhoobee/samsung-demo.git)
 - [food website](https://github.com/Kayhoobee/banking-website.git)
-- [banking-website] (....)
+- [banking-website](https://github.com/Kayhoobee/foodwebsite.git)
 
 ## lets connect!
 [https://www.linkedin.com/in/fidelis-edefo-5548163b5/]
